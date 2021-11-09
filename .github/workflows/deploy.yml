@@ -24,3 +24,4 @@ jobs:
 
       - name: "Build app"
         run: nom run build
+        #test
