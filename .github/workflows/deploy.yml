@@ -23,5 +23,4 @@ jobs:
         run: npm install
 
       - name: "Build app"
-        run: nom run build
-        #test
+        run: npm run build
